@@ -178,7 +178,7 @@ If you already 'git add'ed files and they are being commited even thought they s
 <p>Let’s make our initial commit, by going back to the terminal.</p>
 <p>simple/</p>
 <pre><code>    % git init
-    % git add remote origin git@github.com:marek5050/simple.git
+    % git remote add origin git@github.com:marek5050/simple.git
     % git add .
     % git commit -m "Initial Commit"
     % git push --set-upstream origin master
