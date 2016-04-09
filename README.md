@@ -282,7 +282,7 @@ server {
 		<h1 class="screen-reader-text">Post navigation</h1>
 		<div class="nav-links">
 			<a href="http://amodernstory.com/2015/06/05/one-of-those-great-days-again/" rel="prev"><span class="meta-nav">Previous Post</span>One of those great days again</a><a href="http://amodernstory.com/2015/06/12/basic-javascript-testing-using-mocha-and-istanbul/" rel="next"><span class="meta-nav">Next Post</span>Basic Javascript Testing using Mocha and Istanbul</a>		</div><!-- .nav-links -->
-	</nav><!-- .navigation -->
+	</nav><!-- .navigation --> 
 	
 
 	
