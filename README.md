@@ -6,7 +6,7 @@
 		<div id="content" class="site-content" role="main">
 			
 <article id="post-749" class="post-749 post type-post status-publish format-standard has-post-thumbnail hentry category-programming tag-digitalocean tag-forever tag-nginx tag-nodejs tag-ubuntu">
-	 
+	  
 	<div class="post-thumbnail">
 	<img width="1038" height="414" src="https://amodernstory.files.wordpress.com/2015/06/wpid-screen-shot-2015-06-03-at-5-24-39-am.png?w=1038&amp;h=414&amp;crop=1" class="attachment-twentyfourteen-full-width size-twentyfourteen-full-width wp-post-image" alt="wpid-Screen-Shot-2015-06-03-at-5.24.39-AM.png" />	</div>
 
