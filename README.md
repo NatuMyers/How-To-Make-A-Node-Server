@@ -21,7 +21,7 @@
 			<span class="entry-date"><a href="http://amodernstory.com/2015/06/07/creating-a-website-with-nodejs-nginx-and-digital-ocean/" rel="bookmark"><time class="entry-date" datetime="2015-06-07T14:35:39+00:00">June 7, 2015</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://amodernstory.com/author/dotcz/" rel="author">Marek</a></span></span>			<span class="comments-link"><a href="http://amodernstory.com/2015/06/07/creating-a-website-with-nodejs-nginx-and-digital-ocean/#comments">8 Comments</a></span>
 					</div><!-- .entry-meta -->
 	</header><!-- .entry-header -->
-
+ 
 		<div class="entry-content">
 		<h1 id="intro"><a href="https://amodernstory.files.wordpress.com/2015/06/nodejs.png"><img class=" wp-image-895 alignleft" src="https://amodernstory.files.wordpress.com/2015/06/nodejs.png?w=22&#038;h=12" alt="nodejs" width="22" height="12" /></a>Introduction</h1>
 <hr />
