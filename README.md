@@ -246,7 +246,7 @@ The installation is straight forward with a simple:</p>
 <p>Now we need to configure it, the quickest way will be by creating a file crossfit.social.conf.<br />
 <code></code></p>
 <pre>%vim /etc/nginx/conf.d/crossfit.social.conf
-server {
+server { 
   listen 80; 
   server_name crossfit.social;
   
