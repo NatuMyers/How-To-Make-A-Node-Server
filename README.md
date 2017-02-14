@@ -1,5 +1,5 @@
 ### TAKEN FROM http://amodernstory.com/2015/06/07/creating-a-website-with-nodejs-nginx-and-digital-ocean/
-## I call it the JACKED Licence 
+
 	<div id="main" class="site-main">  
  
 	<div id="primary" class="content-area">
